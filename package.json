@@ -4,7 +4,11 @@
   "description": "Prototyping tool for psd files",
   "author": "Gilli Sigurdsson gilli@axe.is",
   "dependencies": {
-    "psd": "2.0.0",
-    "express": "3.x"
+    "express": "3.x",
+    "gulp-git": "^1.2.1",
+    "psd": "2.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11"
   }
 }
